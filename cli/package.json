@@ -1,0 +1,10 @@
+{
+  "name": "zea-hippocampus",
+  "version": "0.1.0",
+  "description": "CLI for ZEA Hippocampus — Preview Environment Manager",
+  "bin": { "zea-hippocampus": "./index.js" },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "commander": "^12.0"
+  }
+}
